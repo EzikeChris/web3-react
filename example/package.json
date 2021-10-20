@@ -21,7 +21,7 @@
     "@web3-react/torus-connector": "latest",
     "@web3-react/trezor-connector": "latest",
     "@web3-react/walletconnect-connector": "latest",
-    "@web3-react/walletlink-connector": "latest",
+    "@web3-react/walletlink-connector": "6.2.5",
     "next": "^9.2.1",
     "react": ">=16.8",
     "react-dom": ">=16.8",
